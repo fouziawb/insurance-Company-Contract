@@ -1,2 +1,2 @@
 # insurance-Company-Contract
-Creating a smart contract that serves as a secure data store for user information while facilitating insurance subscription, request filing, approval by the contract owner, and subsequent user withdrawals is a complex task. Below is a high-level Solidity code outline that achieves this functionality. Please note that this code serves as a basic example, and in a real-world scenario, you should consider additional security measures, access control, and data encryption to protect user information.
+Creating a smart contract that serves as a secure data store for user information while facilitating insurance subscription, request filing, approval by the contract owner, and subsequent user withdrawals is a complex task. 
